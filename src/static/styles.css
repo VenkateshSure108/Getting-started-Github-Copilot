@@ -84,6 +84,8 @@ section h3 {
 .activity-card ul li {
   margin-bottom: 5px;
   font-size: 14px;
+  color: #1a237e; /* Make participant names stand out */
+  font-weight: bold;
 }
 
 .form-group {
